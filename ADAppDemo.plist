@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://pan.baidu.com/s/1oKhmECoUyZdKbrzTfuI9bw</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-                    <string>com.jd.keplerdemo</string>
-                    <key>bundle-version</key>
-                    <string>1.0.0</string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-                    <string>企业版 App download</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://raw.qingwendang.com/share/JWHC-enterprise.ipa?response-content-type=application%2FFoctet-stream&amp;OSSAccessKeyId=LTAIlkFsprKpGAkO&amp;Expires=1566527839&amp;Signature=ErM3GBa8bsDDLbeXMI3OD2MRuNc%3D</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.jd.keplerdemo</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>企业版 App download</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
-
